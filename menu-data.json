@@ -1,0 +1,14 @@
+[
+    { "title": "MEALS", 
+      "item": [{"kodeMenu": "M01", "namaMenu": "Thai Beef Salad", "harga": "52000"}, 
+                {"kodeMenu": "M02", "namaMenu": "Beef Korean Noodle", "harga": "56000"}
+                            ]}, 
+    { "title": "DRINKS", 
+      "item": [{"kodeMenu": "D01", "namaMenu": "Green Smoothies", "harga": "25000"}, 
+              {"kodeMenu": "D02", "namaMenu": "Golden Glow", "harga": "30000"}
+                                ]}, 
+    { "title": "TOPPINGS", 
+      "item": [{"kodeMenu": "T01", "namaMenu": "Soft Boiled Egg", "harga": "10000"}, 
+              {"kodeMenu": "T02", "namaMenu": "Edamame", "harga": "10000"}
+                                  ]}
+]
